@@ -4734,6 +4734,19 @@
             ]
         ],
         [
+            "Una de las primeras tareas que hay que realizar para implantar un clúster Hadoop es diseñar los procesos de ETL. ¿Verdadero o falso?",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
             "Una de las principales ventajas de las tecnologías Big Data en lugar de la tradicionales de Datawarehouse es que son más rápidas para hacer consultas. ¿Verdadero o falso?",
             [
                 [
